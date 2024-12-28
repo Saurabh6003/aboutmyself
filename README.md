@@ -9,31 +9,31 @@
  As a fresher I Want to associate with an organization where I can use my technical and interpersonal skills for the achievement of organizational goals as well as my personal goals.
 
 ## SKILLS:-
-•	Linux System Administration					
-•	Server Configuration and Management
-•	Security and Firewall Management
-•	Technical support and troubleshooting
-•	Team collaboration
-•	Knowledge of various Linux distributions (Ubuntu, CentOS, RedHat, etc.)
-•	Team work leadership
+- Linux System Administration
+- Server Configuration and Management
+- Security and Firewall Management
+- Technical support and troubleshooting
+- Team collaboration
+- Knowledge of various Linux distributions (Ubuntu, CentOS, RedHat, etc.)
+- Team work leadership
 
 ## PROJECT:-
 At This Time I am Not Work Any Project
 
 
 ## Technical skills :-
-•	Linux
-•	Ms excel
-•	Ms word
+- Linux
+- Ms excel
+- Ms word
 
 
 
 ## Education:-
-•	Babasaheb Bhimrao Ambedkar Bihar University (Bihar)				07/2021-12/2024
+- Babasaheb Bhimrao Ambedkar Bihar University (Bihar)				07/2021-12/2024
   Bachelor Of Science
-•	Bihar School Examination Board, Patna						06/2019-03/2021
-•	Central Board of Secondary Education							03/2018-05/2019
-•	DUCAT (Gurugram) 										12/2024 Present
+- Bihar School Examination Board, Patna						06/2019-03/2021
+- Central Board of Secondary Education							03/2018-05/2019
+- DUCAT (Gurugram) 										12/2024 Present
 
 
 #### Declaration:-
