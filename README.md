@@ -5,10 +5,10 @@
 
 
 
-CAREER OBJECTIVE:-
+## CAREER OBJECTIVE:-
  As a fresher I Want to associate with an organization where I can use my technical and interpersonal skills for the achievement of organizational goals as well as my personal goals.
 
-SKILLS:-
+## SKILLS:-
 •	Linux System Administration					
 •	Server Configuration and Management
 •	Security and Firewall Management
@@ -17,23 +17,25 @@ SKILLS:-
 •	Knowledge of various Linux distributions (Ubuntu, CentOS, RedHat, etc.)
 •	Team work leadership
 
-PROJECT:-
+## PROJECT:-
 At This Time I am Not Work Any Project
 
 
-Technical skills :-
+## Technical skills :-
 •	Linux
 •	Ms excel
 •	Ms word
 
 
 
-Education:-
+## Education:-
 •	Babasaheb Bhimrao Ambedkar Bihar University (Bihar)				07/2021-12/2024
   Bachelor Of Science
 •	Bihar School Examination Board, Patna						06/2019-03/2021
 •	Central Board of Secondary Education							03/2018-05/2019
 •	DUCAT (Gurugram) 										12/2024 Present
+
+
 Declaration:-
 I here by declare that all the details mentioned above are in accordance with the truth and fact as per my knowledge and hold the responsibility for the correctness of the above-mentioned particulars. 
 
