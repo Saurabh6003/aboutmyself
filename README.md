@@ -1,6 +1,6 @@
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Saurabh6003/count.svg" />
+    <img align="middle" src="https://profile-counter.glitch.me/Saurabh6003/count.svg" />
 </p>
 
 
