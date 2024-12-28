@@ -1,3 +1,12 @@
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Saurabh6003/count.svg" />
+</p>
+
+
+
+
+
 - 👋 Hi, I’m Saurabh
 - 👀 I’m interested in Team Work
 - 🌱 I’m currently learning ...
