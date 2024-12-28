@@ -36,7 +36,7 @@ At This Time I am Not Work Any Project
 •	DUCAT (Gurugram) 										12/2024 Present
 
 
-Declaration:-
+#### Declaration:-
 I here by declare that all the details mentioned above are in accordance with the truth and fact as per my knowledge and hold the responsibility for the correctness of the above-mentioned particulars. 
 
 
